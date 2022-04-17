@@ -1,0 +1,23 @@
+{
+  "name": "verbose-octo-spork",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "e2e:open": "./node_modules/.bin/cypress open",
+    "e2e:run": "./node_modules/.bin/cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sreres/verbose-octo-spork.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sreres/verbose-octo-spork/issues"
+  },
+  "homepage": "https://github.com/sreres/verbose-octo-spork#readme",
+  "dependencies": {
+    "cypress": "^9.5.4"
+  }
+}
